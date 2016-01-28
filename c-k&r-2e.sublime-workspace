@@ -1,0 +1,346 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"n",
+				"n"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/rolando/projects/c-k&r-2e"
+	],
+	"file_history":
+	[
+		"/home/rolando/projects/c-k&r-2e/README.md",
+		"/home/rolando/projects/c-kochan/ch12/ex12-02.c",
+		"/home/rolando/projects/c-kochan/ch12/ex12-01.c",
+		"/home/rolando/projects/c-kochan/ch11/pp11-04.c",
+		"/home/rolando/projects/c-kochan/ch11/ex11-04.c",
+		"/home/rolando/projects/c-kochan/.gitignore",
+		"/home/rolando/projects/c-kochan/ch11/pp11-03.c",
+		"/home/rolando/projects/c-kochan/ch11/pp11-02.c",
+		"/home/rolando/projects/c-kochan/ch11/ex11-01.c",
+		"/home/rolando/projects/c-kochan/ch11/ex11-02.c",
+		"/home/rolando/projects/c-kochan/ch11/ex11-03.c",
+		"/home/rolando/projects/c-kochan/ch12x/ex12-1.c",
+		"/home/rolando/projects/c-kochan/ch08/ex8-04.c",
+		"/home/rolando/projects/c-kochan/ch10/ex10-04.c",
+		"/home/rolando/projects/c-kochan/ch10/pp10-11.c",
+		"/home/rolando/projects/c-kochan/ch10/ex10-03.c",
+		"/home/rolando/projects/c-kochan/ch10/pp10-05.c",
+		"/home/rolando/projects/c-kochan/ch10/pp10-06.c",
+		"/home/rolando/projects/c-kochan/ch10/pp10-07.c",
+		"/home/rolando/projects/c-kochan/ch10/pp10-10.c",
+		"/home/rolando/projects/c-kochan/ch10/pp10-12.c",
+		"/home/rolando/projects/c-kochan/ch10x/pp10-12.c",
+		"/home/rolando/projects/c-kochan/ch10x/pp10-11.c",
+		"/home/rolando/projects/c-kochan/ch10x/ex10-11.c",
+		"/home/rolando/projects/c-kochan/ch10x/pp10-10.c",
+		"/home/rolando/projects/c-kochan/ch10/pp10-09.c",
+		"/home/rolando/projects/c-kochan/ch10x/pp10-9.c",
+		"/home/rolando/projects/c-kochan/ch10/pp10-08.c",
+		"/home/rolando/projects/c-kochan/ch10x/pp10-8.c",
+		"/home/rolando/projects/c-kochan/ch10/ex10-05.c",
+		"/home/rolando/projects/c-kochan/ch10/ex10-06.c",
+		"/home/rolando/projects/c-kochan/ch10/ex10-07.c",
+		"/home/rolando/projects/c-kochan/ch10/pp10-02.c",
+		"/home/rolando/projects/c-kochan/ch10/pp10-03.c",
+		"/home/rolando/projects/c-kochan/ch10/pp10-04.c",
+		"/home/rolando/projects/c-kochan/ch10x/pp10-7.c",
+		"/home/rolando/projects/c-kochan/ch10x/ex10-7.c",
+		"/home/rolando/projects/c-kochan/ch10/ex10-15.c",
+		"/home/rolando/projects/c-kochan/ch10x/pp10-6.c",
+		"/home/rolando/projects/c-kochan/ch10x/pp10-5.c",
+		"/home/rolando/projects/c-kochan/ch10x/pp10-4.c",
+		"/home/rolando/projects/c-kochan/ch10x/pp10-2.c",
+		"/home/rolando/projects/c-kochan/ch10x/ex10-15.c",
+		"/home/rolando/projects/c-kochan/ch10/ex10-14.c",
+		"/home/rolando/projects/c-kochan/ch10x/ex10-14.c",
+		"/home/rolando/projects/c-kochan/ch10/ex10.13.c",
+		"/home/rolando/projects/c-kochan/ch10/ex10-13.c",
+		"/home/rolando/projects/c-kochan/ch10x/ex10-13.c",
+		"/home/rolando/projects/c-kochan/ch10/ex10-12.c",
+		"/home/rolando/projects/c-kochan/ch10/ex10-11.c",
+		"/home/rolando/projects/c-kochan/ch10x/ex10-12.c",
+		"/home/rolando/projects/c-kochan/ch10/ex10-10.c",
+		"/home/rolando/projects/c-kochan/ch10x/ex10-10.c",
+		"/home/rolando/projects/c-kochan/ch11x/ex11-1.c",
+		"/home/rolando/projects/c-kochan/ch10x/ex10.9.c",
+		"/home/rolando/projects/c-kochan/ch10/ex10-09.c",
+		"/home/rolando/projects/c-kochan/ch10/ex10-08.c",
+		"/home/rolando/projects/c-kochan/ch10x/ex10-8.c",
+		"/home/rolando/projects/c-kochan/ch10x/ex10-6.c",
+		"/home/rolando/projects/c-kochan/ch10x/ex10-5.c",
+		"/home/rolando/projects/c-kochan/ch10/ex10-02.c",
+		"/home/rolando/projects/c-kochan/ch10/ex10-01.c",
+		"/home/rolando/projects/c-kochan/ch10x/ex10-3.c",
+		"/home/rolando/projects/c-kochan/ch10x/ex10-2.c",
+		"/home/rolando/projects/c-kochan/ch10x/ex10-1.c",
+		"/home/rolando/projects/c-kochan/ch09/pp9-14.c",
+		"/home/rolando/projects/c-kochan/ch9/pp9-14.c",
+		"/home/rolando/projects/c-kochan/ch09/pp9-13.c",
+		"/home/rolando/projects/c-kochan/ch9/pp9-13.c",
+		"/home/rolando/projects/c-kochan/ch09/pp9-09.c",
+		"/home/rolando/projects/c-kochan/ch9/pp9-9.c",
+		"/home/rolando/projects/c-kochan/ch9/ex9-9.c",
+		"/home/rolando/projects/c-kochan/ch09/pp9-10.c",
+		"/home/rolando/projects/c-kochan/ch9/pp9-10.c",
+		"/home/rolando/projects/c-kochan/ch9/ex9-3.c",
+		"/home/rolando/projects/c-kochan/ch9/ex9-4.c",
+		"/home/rolando/projects/c-kochan/ch9/ex9-5.c",
+		"/home/rolando/projects/c-kochan/ch9/ex9-6.c",
+		"/home/rolando/projects/c-kochan/ch9/ex9-7.c",
+		"/home/rolando/projects/c-kochan/ch9/ex9-8.c",
+		"/home/rolando/projects/c-kochan/ch09/pp9-08.c",
+		"/home/rolando/projects/c-kochan/ch9/pp9-8.c",
+		"/home/rolando/projects/c-kochan/ch09/pp9-07.c",
+		"/home/rolando/projects/c-kochan/ch9/pp9-7.c",
+		"/home/rolando/projects/c-kochan/ch09/pp9-06.c",
+		"/home/rolando/projects/c-kochan/ch9/pp9-6.c",
+		"/home/rolando/projects/c-kochan/ch09/pp9-06.v",
+		"/home/rolando/projects/c-kochan/ch09/pp9-05.c",
+		"/home/rolando/projects/c-kochan/ch9/pp9-5.c",
+		"/home/rolando/projects/c-kochan/ch09/pp9-04.c",
+		"/home/rolando/projects/c-kochan/ch9/pp9-4.c",
+		"/home/rolando/projects/c-kochan/ch9/pp9-3B.c",
+		"/home/rolando/projects/c-kochan/ch09/pp9-03B.c",
+		"/home/rolando/projects/c-kochan/ch09/ex9-11.c",
+		"/home/rolando/projects/c-kochan/ch09/ex9-10.c",
+		"/home/rolando/projects/c-kochan/ch09/pp9-03A.c",
+		"/home/rolando/projects/c-kochan/ch09/pp9-02.c",
+		"/home/rolando/projects/c-kochan/ch9/pp9-3A.c",
+		"/home/rolando/projects/c-kochan/ch9/pp9-2.c",
+		"/home/rolando/projects/c-kochan/ch9/ex9-11.c",
+		"/home/rolando/projects/c-kochan/ch9/ex9-10.c",
+		"/home/rolando/projects/c-kochan/ch9/pp9-11.c",
+		"/home/rolando/projects/c-kochan/ch09/pp9-11.c",
+		"/home/rolando/projects/c-kochan/ch09/pp9-12.c",
+		"/home/rolando/projects/c-kochan/ch09/ex9-08.c",
+		"/home/rolando/projects/c-kochan/ch09/ex9-09.c",
+		"/home/rolando/projects/c-kochan/ch9/pp9-12.c",
+		"/home/rolando/projects/c-kochan/ch09/ex9-07.c",
+		"/home/rolando/projects/c-kochan/ch09/ex9-06.c",
+		"/home/rolando/projects/c-kochan/ch09/ex9-05.c",
+		"/home/rolando/projects/c-kochan/ch09/ex9-04.c",
+		"/home/rolando/projects/c-kochan/ch09/ex9-03.c",
+		"/home/rolando/projects/c-kochan/ch09/ex9-02.c",
+		"/home/rolando/projects/c-kochan/ch09/ex9-01.c",
+		"/home/rolando/projects/c-kochan/ch9/ex9-2.c",
+		"/home/rolando/projects/c-kochan/ch9/ex9-1.c",
+		"/home/rolando/projects/c-kochan/ch08/pp8-02.c",
+		"/home/rolando/projects/c-kochan/ch08/pp8-03.c",
+		"/home/rolando/projects/c-kochan/ch08/pp8-04.c",
+		"/home/rolando/projects/c-kochan/ch08/pp8-05.c",
+		"/home/rolando/projects/c-kochan/ch08/pp8-06.c",
+		"/home/rolando/projects/c-kochan/ch8/pp8-6.c",
+		"/home/rolando/projects/c-kochan/ch8/pp8-5.c",
+		"/home/rolando/projects/c-kochan/ch08/ex8-07.c",
+		"/home/rolando/projects/c-kochan/ch08/ex8-05.c",
+		"/home/rolando/projects/c-kochan/ch08/ex8-06.c",
+		"/home/rolando/projects/c-kochan/ch8/pp8-4.c",
+		"/home/rolando/projects/c-kochan/ch8/pp8-3.c"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"}};\n",
+			"timeupdate",
+			"//\n",
+			"nextay",
+			";\n",
+			"	\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 178.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "Packages/User/C.sublime-build",
+	"project": "c-k&r-2e.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 156.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
